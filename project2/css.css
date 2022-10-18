@@ -1,0 +1,229 @@
+/* styles */
+body
+{
+    background-color:#f0e6e6;
+  }
+a:link {text-decoration: none;} 
+
+.header{border: 1px solid black;
+    background-color: antiquewhite;
+width: 1350px;
+height: 60px;
+position:fixed;
+margin-left: -10px;
+margin-top: -10px;}
+
+.navbar{border: 1px solid black;
+width: 40px;
+text-align: center;
+height: 35px;
+margin-bottom: 10px; 
+margin-top: 10px;
+margin-left: 20px;
+background-color: black;
+}
+.logo{margin-left: 5px;
+margin-top: 1px;
+width: 15px;
+height: 10px;
+
+color: yellow;
+}
+.search{margin-top: -40px;
+    margin-left:150px;
+}
+
+.login
+{margin-left:  800px ;
+margin-top: -20px; height: 40px;
+width: 80px;
+border: 2px red;
+text-align: center;
+
+}
+.login:hover{color: yellowgreen;
+    background-color: rgb(69, 126, 180);
+    border: 2px red;
+    height: 40px;
+    width: 80px;
+    text-align: center;
+}
+.create{margin-left:  1000px ;
+    margin-top: -56px;
+    width: 290px;
+}
+
+
+.follow{height: 40px;
+width:150px;
+background-color: rgb(14, 14, 212);
+color: beige;
+margin-left: 20px;
+}
+.follow:hover
+{background-color: rgb(26, 4, 87);
+color: white;}
+
+.b{border: 1px solid black;}
+.menu{word-spacing: 10px;}
+
+.post{border: 2px solid rgb(141, 128, 128);
+    margin-right: 720px;
+    margin-left: 50px;
+margin-top: 10px;
+background-color:whitesmoke;
+width: 500px;
+border: none;
+
+}
+.post1{list-style-type: none;
+margin-left: -20px;
+margin-right: 20px;}
+.b:hover
+{background-color:rgb(203, 233, 120);
+
+}
+
+.totalcenter{border: 2px solid red;
+width: 890px;
+margin-left: 100px;
+
+}
+.centerimg{margin-left: -85px;
+margin-top: 50px;
+}
+
+.usecase{border: 1px solid black;
+    margin-top: 10px;
+    padding-left: 60px;
+padding-right: 10px; 
+width: 760px;
+border: none;
+font-size: 20px;
+
+}
+.youtubelink{border: 1px solid black;
+    padding-left:60px;
+    border: none;
+width:760 ;
+    padding-left: 90px;
+padding-right: 10px;
+font-size: 20px;
+
+}
+.Subscribe{border: 1px solid black;
+    margin-top: 10px;
+    margin-right: 420px;
+    font-size: 20px;
+    padding-left: 10px;
+padding-right: 10px;width: 760px;   
+ padding-left:60px;
+border: none;
+}
+.right{margin-left: 995px;
+    margin-right: 20px;
+    border: 2px solid black;
+    padding: 30px 20px;
+    margin-top: 53px;
+position: fixed;
+background-color: rgb(176, 233, 233);width: 300px;
+}
+.t1
+{border: 1px solid black; font-size: 15px;
+    border-radius: 10px;
+    background-color: rgb(221, 252, 252);
+}
+.t2{border: 1px solid black;
+    text-align: center;
+    border-radius: 10px; 
+    font-size: 15px;
+background-color: rgb(221, 252, 252);}
+.left{font-size: 30px;
+    padding: 20px 15px;
+    margin-top: 73px;
+    margin-left: 10px;
+    width: 20px;
+    position:fixed;
+    border: 2px solid black;
+    border: none;
+}
+.cofeimg{text-align: center;
+    margin-left: 100px;
+    
+}
+
+.commentdisc{
+    margin-left: 40px;
+    height: 70px;
+    width: 500px;
+    text-align:left;
+    margin-top: 20px;
+}
+.topcomment{border: 1px solid black;
+    width: 760px;
+    margin-right: 400px;border: none;}
+    
+.browsing{border: 1px solid black;
+    margin-top: 10px;
+    margin-right: 420px;
+    margin-left: 97px;
+    padding-left: 10px;
+    width: 875px;
+    font-size: 20px;
+
+
+padding-right: 10px;
+
+}
+.read{border: 1px solid black;
+    margin-top: 10px;
+    margin-right: 420px;
+    margin-left: 97px;
+    padding-left: 10px;
+padding-right: 10px;
+width: 875px;
+}
+.sec2{border: 3px solid red;
+    margin-top: 10px;
+    margin-right: 420px;
+    margin-left: 10px;
+    padding-left: 10px;
+padding-right: 10px;}
+.Testing{color: red;}
+.Testing:hover{color: blue;}
+.fa-address-book{
+    font-size: 30px;
+color:black;}
+.Johal:hover{color: blue;}
+#dilpreet:hover{color: blue;}
+.dilpreet{color: black;
+}
+.Johala:hover{color: blue;}
+.Johala{color: black;}
+
+.center{ margin-top: 10px;
+margin-left: 85px;
+
+}
+.video{margin-left: 70px;
+margin-bottom: 20px;
+padding-left:60px;}
+
+.readimg1{border-radius: 40px;}
+.readimg2{border-radius: 40px;}
+.readimg3{border-radius: 40px;}
+.readimg4{border-radius: 40px;}
+
+
+
+.foot{
+    text-align: center;
+    margin-top: 10px;
+    background-color:gainsboro ;
+    height: 150px;
+    width: 870px;
+    padding: 15px;
+    border-radius: 10px;
+    margin-left: 95px;
+}
+.totaldiv{width: 100%;}
